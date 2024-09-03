@@ -1,0 +1,112 @@
+*{margin: 0px;}
+.caja
+{
+    background-color: blueviolet;
+    width: 40px;
+    height: 22px;
+    position: absolute;
+    top: 11px;
+    left: 30px ;
+}
+.ovalo
+{
+    background-color: blueviolet;
+    width: 100px;
+    height: 24px;
+    border-radius: 100%;
+    position: absolute;
+    top: 28px;
+    left: opx;
+}
+.cara
+{
+    background-color: red;
+    width: 60px;
+    height: 35px;
+    border-radius: 100%;
+    position: absolute;
+    top: 48px;
+    left: 20px;
+}
+.ojo1
+{
+    background-color: yellow;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
+.ojito
+{
+    background-color: black;
+    width: 7px;
+    height: 7px;
+    border-radius: 100%;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+}
+.ojo2
+{
+    background-color: yellow;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    position: absolute;
+    top: 5px;
+    left: 40px;
+}
+
+.boca
+{
+    background-color: yellow;
+    width: 30px;
+    height: 10px;
+    border-radius: 60%;
+    position: absolute;
+    top: 19px;
+    left: 15px;
+}
+.labios
+{
+    background-color:black;
+    width: 20px;
+    height: 7px;
+    border-radius: 60%;
+    position: absolute;
+    top: 21px;
+    left: 20px;
+}
+
+.mono1
+{
+    background-color: green;
+    width: 35px;
+    height: 18px;
+    border-radius: 100%;
+   position: absolute;
+   top: 80px;
+   left: 12px;
+}
+.monocentro
+{
+    background-color: green;
+    width: 18px;
+    height: 18px;
+    border-radius: 100%;
+    position: absolute;
+    top: 80px;
+    left: 42px;
+}
+.mono2
+{
+    background-color: green;
+    width: 35px;
+    height: 18px;
+    border-radius: 100%;
+    position: absolute;
+    top:80px;
+    left: 56px;
+}
